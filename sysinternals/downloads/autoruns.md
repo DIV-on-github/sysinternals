@@ -123,6 +123,10 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
 | **-z**       | Specifies the offline Windows system to scan.                                                                                                                                                                                                                                                                       |
 | **user**     | Specifies the name of the user account for which autorun items will be shown. Specify '\*' to scan all user profiles.                                                                                                                                                                                               |
 
+## System requirements
+
+Autoruns has minimal system requirements.  It can be run on most versions of Windows, going back to (around) Windows XP — although there may be a small number of features of Autoruns that are unavailable in the older versions of Windows.  
+
 ## Related Links
 
 -   [**Windows Internals Book**](~/resources/windows-internals.md)  The official updates and errata page for the definitive book on
